@@ -39,6 +39,14 @@
   </tr>
 
 
+  <tr>
+    <th>02</th>
+    <th>python</th>
+    <th>mostafi</th>
+    <th>
+        <a href='https://github.com/amhajii/Algo_Keys/tree/main/001/002/02'>جواب+</a>
+    </th>
+  </tr>
 
 
   <!-- <tr>
